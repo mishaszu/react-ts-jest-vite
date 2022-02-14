@@ -1,10 +1,14 @@
 ## init vite template:
+```bash
 yarn create vite@latest app-name --template react-ts
+```
 ## init jest template:
+```bash
 yarn add -D jest
 yarn add -D @testing-library/react @testing-library/jest-dom @testing-library/user-event
 yarn add -D @babel/preset-react @babel/preset-typescript @babel/preset-env
 yarn add -D identity-obj-proxy
+```
 [^ from here](https://egghead.io/lessons/jest-adding-jest-with-typescript-support-to-a-vite-application)
 ## init jest with:
 ```bash
